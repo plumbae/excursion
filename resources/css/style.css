@@ -1,0 +1,45 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  color: white;
+  background-color: black;
+}
+
+body {
+  display: block;
+  text-align: center;
+}
+
+h1, h2 {
+  margin-block-start: 2rem;
+  margin-block-end: 2rem;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+a {
+  color: aquamarine;
+  margin-block-start: 2rem;
+  margin-block-end: 2rem;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+  margin-block-start: 2rem;
+  margin-block-end: 2rem;
+}
+
+footer {
+  text-align: end;
+  color: gray;
+  margin-block-start: 1rem;
+  margin-block-end: 1rem;
+  margin-right: 1rem;
+}
